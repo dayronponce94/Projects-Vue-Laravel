@@ -1,6 +1,6 @@
 # Projects Vue + Laravel Collection | Colección de Proyectos Vue + Laravel
 
-Repositorio para mis proyectos fullstack con Vue y Laravel.
+Repositorio para mis proyectos full-stack con Vue y Laravel.
 
 Repository containing multiple full-stack projects with Vue and Laravel.
 
