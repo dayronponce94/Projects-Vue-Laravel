@@ -5,7 +5,7 @@ Aplicación para gestión de tareas diarias.
 Application for daily task management.
 
 ## Tecnologías / Tecnologies
-- V ue3.5.17
+- Vue3.5.17
 - Laravel Framework 12.19.3
 - Artisan
 - sqlite3 
