@@ -1,0 +1,43 @@
+# Archivos generales
+.DS_Store
+Thumbs.db
+*.log
+*.sqlite
+*.sqlite-journal
+
+# Entornos virtuales
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+
+# Dependencias
+node_modules/
+vendor/
+composer.lock
+package-lock.json
+yarn.lock
+
+# Entornos de desarrollo
+.idea/
+.vscode/
+.fleet/
+.nova/
+.zed/
+
+# Builds y compilaciones
+/dist/
+/dist-ssr/
+/public/build/
+/public/hot/
+/storage/framework/cache/
+/storage/framework/sessions/
+/storage/framework/views/
+/storage/pail/
+/coverage/
+
+# Archivos de sistema
+Homestead.json
+Homestead.yaml
+auth.json

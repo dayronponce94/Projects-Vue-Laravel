@@ -1,0 +1,12 @@
+/node_modules
+/vendor
+/.env
+/.idea
+/.vscode
+/storage/*.key
+/public/storage
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/logs/*
+composer.lock
+.DS_Store
