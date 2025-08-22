@@ -1,16 +1,16 @@
 # ClinicApp - Sistema de Citas Médicas / Medical Appointment System
 
-Aplicación para gestión de citas médicas con reservas en tiempo real.
+Aplicación web completa para la gestión de turnos médicos online
 
-Application for medical appointment management with real-time bookings.
+Complete web application for online medical appointment management
 
 ## Tecnologías / Technologies
 
-- Vue 3.5.17,
-- Vite 7.0.4,
-- Axios 1.8.2,
-- Tailwind CSS 4.0.0,
-- Laravel Framework 12.0,
+- Vue 3.5.17
+- Vite 7.0.4
+- Axios 1.11.0 (frontend) / 1.8.2 (backend)
+- Tailwind CSS 4.0.0
+- Laravel Framework 12.0
 - SQLite,
 - JWT tokens
 - Pinia 3.0.3
@@ -19,15 +19,15 @@ Application for medical appointment management with real-time bookings.
 
 ### Requisitos previos
 
-- PHP 8.1+
+- PHP 8.2+
 - Composer
-- Node.js 16+
+- Node.js 18+
 - SQLite
 
 ### Pasos de instalación
 
 ```bash
-# Clonar el repositorio (si no lo tienes)
+# Clonar el repositorio (si no lo tienes) / Clone the repository (if you don't have one)
 git clone https://github.com/dayronponce94/Projects-Vue-Laravel.git
 cd Projects-Vue-Laravel/ClinicApp
 
@@ -39,7 +39,7 @@ php artisan key:generate
 php artisan migrate
 php artisan serve
 
-# Frontend (en otra terminal)
+# Frontend 
 cd ../ui
 npm install
 npm run dev
