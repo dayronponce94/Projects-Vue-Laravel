@@ -4,7 +4,7 @@ Aplicación para gestión de tareas diarias.
 
 Application for daily task management.
 
-## Tecnologías / Tecnologies
+## Tecnologías / Technologies
 
 - Vue 3.5.17
 - Vite 7.0.0 (frontend) / 6.2.4 (backend)
