@@ -17,14 +17,14 @@ Complete web application for online medical appointment management
 
 ## Instalación / Installation
 
-### Requisitos previos
+### Requisitos previos / Prerequisites
 
 - PHP 8.2+
 - Composer
 - Node.js 18+
 - SQLite
 
-### Pasos de instalación
+### Pasos de instalación / Installation steps
 
 ```bash
 # Clonar el repositorio (si no lo tienes) / Clone the repository (if you don't have one)
